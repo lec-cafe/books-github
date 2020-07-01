@@ -41,14 +41,14 @@ module.exports = {
         {
           title: 'Nuxt.js を利用したWebサイト制作',
           collapsable: false,
-          path: "/lessons/website",
+          path: "/lessons/github",
           children: [
-            'website/1.setup',
-            'website/2.page',
-            'website/3.subpage',
-            'website/4.css',
-            'website/5.image',
-            'website/6.build',
+            'github/1.setup',
+            'github/2.page',
+            'github/3.subpage',
+            'github/4.css',
+            'github/5.image',
+            'github/6.build',
           ]
         },
         "/nuxtjs/"
