@@ -5,11 +5,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Nuxt.js Note',
+  title: 'GitHub Note',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: "Nuxt.js を利用した Web サイト / Web アプリ開発のための教材を作成しています。",
+  description: "GitHub を利用した バージョン管理の手法をまとめています。",
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
